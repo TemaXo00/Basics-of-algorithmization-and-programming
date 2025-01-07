@@ -1,0 +1,25 @@
+# ninja log v6
+2	117	1735313484548500700	CMakeFiles/Task_2.dir/main.cpp.o.ddi	7d2f9cf9e979d7cc
+117	124	1735313484669900500	CMakeFiles/Task_2.dir/CXX.dd	a99e88e4793f7886
+117	124	1735313484669900500	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 7/Task_2/cmake-build-debug/CMakeFiles/Task_2.dir/CXXModules.json	a99e88e4793f7886
+117	124	1735313484669900500	CMakeFiles/Task_2.dir/main.cpp.o.modmap	a99e88e4793f7886
+124	865	1735313484671262500	CMakeFiles/Task_2.dir/main.cpp.o	82bd6bdecb119647
+872	956	1735313485418342000	Task_2	230879124bd7d9bb
+2	135	1735313566911320000	CMakeFiles/Task_2.dir/main.cpp.o.ddi	7d2f9cf9e979d7cc
+135	143	1735313567044345400	CMakeFiles/Task_2.dir/CXX.dd	a99e88e4793f7886
+135	143	1735313567044345400	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 7/Task_2/cmake-build-debug/CMakeFiles/Task_2.dir/CXXModules.json	a99e88e4793f7886
+135	143	1735313567044345400	CMakeFiles/Task_2.dir/main.cpp.o.modmap	a99e88e4793f7886
+144	912	1735313567052371300	CMakeFiles/Task_2.dir/main.cpp.o	82bd6bdecb119647
+912	998	1735313567820977400	Task_2	230879124bd7d9bb
+3	113	1735313586956977300	CMakeFiles/Task_2.dir/main.cpp.o.ddi	7d2f9cf9e979d7cc
+115	122	1735313587069134100	CMakeFiles/Task_2.dir/CXX.dd	a99e88e4793f7886
+115	122	1735313587069134100	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 7/Task_2/cmake-build-debug/CMakeFiles/Task_2.dir/CXXModules.json	a99e88e4793f7886
+115	122	1735313587069134100	CMakeFiles/Task_2.dir/main.cpp.o.modmap	a99e88e4793f7886
+122	886	1735313587075781000	CMakeFiles/Task_2.dir/main.cpp.o	82bd6bdecb119647
+887	983	1735313587840398100	Task_2	230879124bd7d9bb
+2	109	1735313627122112600	CMakeFiles/Task_2.dir/main.cpp.o.ddi	7d2f9cf9e979d7cc
+110	115	1735313627229654600	CMakeFiles/Task_2.dir/CXX.dd	a99e88e4793f7886
+110	115	1735313627229654600	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 7/Task_2/cmake-build-debug/CMakeFiles/Task_2.dir/CXXModules.json	a99e88e4793f7886
+110	115	1735313627229654600	CMakeFiles/Task_2.dir/main.cpp.o.modmap	a99e88e4793f7886
+116	864	1735313627235362000	CMakeFiles/Task_2.dir/main.cpp.o	82bd6bdecb119647
+865	960	1735313627984531700	Task_2	230879124bd7d9bb

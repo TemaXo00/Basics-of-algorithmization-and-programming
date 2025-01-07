@@ -1,0 +1,8 @@
+﻿  Lab 11.cpp
+D:\Works\Labs\MITSO-1 Course. ОАИП. ЛР Re\Lab 11\Lab 11.cpp(17,36): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\Works\Labs\MITSO-1 Course. ОАИП. ЛР Re\Lab 11\Lab 11.cpp(20,37): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\Works\Labs\MITSO-1 Course. ОАИП. ЛР Re\Lab 11\Lab 11.cpp(24,36): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\Works\Labs\MITSO-1 Course. ОАИП. ЛР Re\Lab 11\Lab 11.cpp(27,37): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\Works\Labs\MITSO-1 Course. ОАИП. ЛР Re\Lab 11\Lab 11.cpp(31,38): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\Works\Labs\MITSO-1 Course. ОАИП. ЛР Re\Lab 11\Lab 11.cpp(34,38): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+  Lab 11.vcxproj -> D:\Works\Labs\MITSO-1 Course. ОАИП. ЛР Re\Lab 11\x64\Debug\Lab 11.exe

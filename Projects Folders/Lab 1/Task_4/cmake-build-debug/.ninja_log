@@ -1,0 +1,7 @@
+# ninja log v6
+1	119	1735301528679600600	CMakeFiles/Task_4.dir/main.cpp.o.ddi	85a54f5d797bb8b3
+119	125	1735301528803397400	CMakeFiles/Task_4.dir/CXX.dd	5ae2d853efc5f226
+119	125	1735301528803397400	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 1/Task_4/cmake-build-debug/CMakeFiles/Task_4.dir/CXXModules.json	5ae2d853efc5f226
+119	125	1735301528803397400	CMakeFiles/Task_4.dir/main.cpp.o.modmap	5ae2d853efc5f226
+126	803	1735301528804613500	CMakeFiles/Task_4.dir/main.cpp.o	66194f4f8f9e467f
+810	897	1735301529488798900	Task_4	128cd5954724dd03

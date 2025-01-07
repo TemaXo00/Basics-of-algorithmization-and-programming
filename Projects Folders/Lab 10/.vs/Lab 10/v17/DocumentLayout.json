@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Works\\Labs\\MITSO-1 Course. \u041E\u0410\u0418\u041F. \u041B\u0420\\Lab 10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A44339E1-50D9-4C97-A1D1-44B3CA64F3E2}|Lab 10.vcxproj|D:\\Works\\Labs\\MITSO-1 Course. \u041E\u0410\u0418\u041F. \u041B\u0420\\Lab 10\\Lab 10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A44339E1-50D9-4C97-A1D1-44B3CA64F3E2}|Lab 10.vcxproj|solutionrelative:Lab 10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab 10.cpp",
+              "DocumentMoniker": "D:\\Works\\Labs\\MITSO-1 Course. \u041E\u0410\u0418\u041F. \u041B\u0420\\Lab 10\\Lab 10.cpp",
+              "RelativeDocumentMoniker": "Lab 10.cpp",
+              "ToolTip": "D:\\Works\\Labs\\MITSO-1 Course. \u041E\u0410\u0418\u041F. \u041B\u0420\\Lab 10\\Lab 10.cpp",
+              "RelativeToolTip": "Lab 10.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T08:01:42.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+# ninja log v6
+2	158	1735305696328866100	CMakeFiles/Task_1.dir/main.cpp.o.ddi	6b700d7a67cef491
+158	164	1735305696490180700	CMakeFiles/Task_1.dir/CXX.dd	4c88ca26a0ab57ca
+158	164	1735305696490180700	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CXXModules.json	4c88ca26a0ab57ca
+158	164	1735305696490180700	CMakeFiles/Task_1.dir/main.cpp.o.modmap	4c88ca26a0ab57ca
+164	1024	1735305696491067500	CMakeFiles/Task_1.dir/main.cpp.o	8217b47f304898ca
+1032	1117	1735305697358780400	Task_1	f12d67335047e817
+5	162	1735305713389755300	CMakeFiles/Task_1.dir/main.cpp.o.ddi	6b700d7a67cef491
+163	168	1735305713547380400	CMakeFiles/Task_1.dir/CXX.dd	4c88ca26a0ab57ca
+163	168	1735305713547380400	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CXXModules.json	4c88ca26a0ab57ca
+163	168	1735305713547380400	CMakeFiles/Task_1.dir/main.cpp.o.modmap	4c88ca26a0ab57ca
+168	1034	1735305713553335100	CMakeFiles/Task_1.dir/main.cpp.o	8217b47f304898ca
+1035	1127	1735305714419421500	Task_1	f12d67335047e817
+3	157	1735305726970968300	CMakeFiles/Task_1.dir/main.cpp.o.ddi	6b700d7a67cef491
+157	162	1735305727124711800	CMakeFiles/Task_1.dir/CXX.dd	4c88ca26a0ab57ca
+157	162	1735305727124711800	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CXXModules.json	4c88ca26a0ab57ca
+157	162	1735305727124711800	CMakeFiles/Task_1.dir/main.cpp.o.modmap	4c88ca26a0ab57ca
+163	1038	1735305727130577800	CMakeFiles/Task_1.dir/main.cpp.o	8217b47f304898ca
+1038	1125	1735305728005941000	Task_1	f12d67335047e817
+3	171	1735305802917799800	CMakeFiles/Task_1.dir/main.cpp.o.ddi	6b700d7a67cef491
+171	180	1735305803085653300	CMakeFiles/Task_1.dir/CXX.dd	4c88ca26a0ab57ca
+171	180	1735305803085653300	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CXXModules.json	4c88ca26a0ab57ca
+171	180	1735305803085653300	CMakeFiles/Task_1.dir/main.cpp.o.modmap	4c88ca26a0ab57ca
+181	1085	1735305803096099800	CMakeFiles/Task_1.dir/main.cpp.o	8217b47f304898ca
+1085	1169	1735305804000094500	Task_1	f12d67335047e817
+4	159	1735305950679068800	CMakeFiles/Task_1.dir/main.cpp.o.ddi	6b700d7a67cef491
+160	166	1735305950834316600	CMakeFiles/Task_1.dir/CXX.dd	4c88ca26a0ab57ca
+160	166	1735305950834316600	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CXXModules.json	4c88ca26a0ab57ca
+160	166	1735305950834316600	CMakeFiles/Task_1.dir/main.cpp.o.modmap	4c88ca26a0ab57ca
+166	1013	1735305950840917800	CMakeFiles/Task_1.dir/main.cpp.o	8217b47f304898ca
+1013	1098	1735305951688227400	Task_1	f12d67335047e817
+3	161	1735306016906833000	CMakeFiles/Task_1.dir/main.cpp.o.ddi	6b700d7a67cef491
+161	167	1735306017064769300	CMakeFiles/Task_1.dir/CXX.dd	4c88ca26a0ab57ca
+161	167	1735306017064769300	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CXXModules.json	4c88ca26a0ab57ca
+161	167	1735306017064769300	CMakeFiles/Task_1.dir/main.cpp.o.modmap	4c88ca26a0ab57ca
+167	1325	1735306017071275800	CMakeFiles/Task_1.dir/main.cpp.o	8217b47f304898ca
+1325	1419	1735306018228911300	Task_1	f12d67335047e817
+3	180	1735306170840697700	CMakeFiles/Task_1.dir/main.cpp.o.ddi	6b700d7a67cef491
+180	186	1735306171018365100	CMakeFiles/Task_1.dir/CXX.dd	4c88ca26a0ab57ca
+180	186	1735306171018365100	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CXXModules.json	4c88ca26a0ab57ca
+180	186	1735306171018365100	CMakeFiles/Task_1.dir/main.cpp.o.modmap	4c88ca26a0ab57ca
+187	1121	1735306171024608300	CMakeFiles/Task_1.dir/main.cpp.o	8217b47f304898ca
+1121	1211	1735306171959037100	Task_1	f12d67335047e817
+2	170	1735306184468387100	CMakeFiles/Task_1.dir/main.cpp.o.ddi	6b700d7a67cef491
+170	176	1735306184636108800	CMakeFiles/Task_1.dir/CXX.dd	4c88ca26a0ab57ca
+170	176	1735306184636108800	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CXXModules.json	4c88ca26a0ab57ca
+170	176	1735306184636108800	CMakeFiles/Task_1.dir/main.cpp.o.modmap	4c88ca26a0ab57ca
+177	1088	1735306184642709200	CMakeFiles/Task_1.dir/main.cpp.o	8217b47f304898ca
+1088	1179	1735306185554030200	Task_1	f12d67335047e817
+3	166	1735306197157679600	CMakeFiles/Task_1.dir/main.cpp.o.ddi	6b700d7a67cef491
+166	171	1735306197320805900	CMakeFiles/Task_1.dir/CXX.dd	4c88ca26a0ab57ca
+166	171	1735306197320805900	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CXXModules.json	4c88ca26a0ab57ca
+166	171	1735306197320805900	CMakeFiles/Task_1.dir/main.cpp.o.modmap	4c88ca26a0ab57ca
+172	1183	1735306197326612900	CMakeFiles/Task_1.dir/main.cpp.o	8217b47f304898ca
+1185	1297	1735306198341602400	Task_1	f12d67335047e817
+3	175	1735306255526937700	CMakeFiles/Task_1.dir/main.cpp.o.ddi	6b700d7a67cef491
+175	181	1735306255698610800	CMakeFiles/Task_1.dir/CXX.dd	4c88ca26a0ab57ca
+175	181	1735306255698610800	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CXXModules.json	4c88ca26a0ab57ca
+175	181	1735306255698610800	CMakeFiles/Task_1.dir/main.cpp.o.modmap	4c88ca26a0ab57ca
+181	1460	1735306255704984200	CMakeFiles/Task_1.dir/main.cpp.o	8217b47f304898ca
+1460	1553	1735306256984146100	Task_1	f12d67335047e817
+2	163	1735306371728896700	CMakeFiles/Task_1.dir/main.cpp.o.ddi	6b700d7a67cef491
+163	168	1735306371890054000	CMakeFiles/Task_1.dir/CXX.dd	4c88ca26a0ab57ca
+163	168	1735306371890054000	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CXXModules.json	4c88ca26a0ab57ca
+163	168	1735306371890054000	CMakeFiles/Task_1.dir/main.cpp.o.modmap	4c88ca26a0ab57ca
+169	1119	1735306371895521700	CMakeFiles/Task_1.dir/main.cpp.o	8217b47f304898ca
+1119	1205	1735306372845760700	Task_1	f12d67335047e817
+3	179	1735306412523655000	CMakeFiles/Task_1.dir/main.cpp.o.ddi	6b700d7a67cef491
+179	221	1735306412700261100	CMakeFiles/Task_1.dir/CXX.dd	4c88ca26a0ab57ca
+179	221	1735306412700261100	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CXXModules.json	4c88ca26a0ab57ca
+179	221	1735306412700261100	CMakeFiles/Task_1.dir/main.cpp.o.modmap	4c88ca26a0ab57ca
+222	1128	1735306412742555900	CMakeFiles/Task_1.dir/main.cpp.o	8217b47f304898ca
+1129	1209	1735306413649580100	Task_1	f12d67335047e817
+2	170	1735306421683241700	CMakeFiles/Task_1.dir/main.cpp.o.ddi	6b700d7a67cef491
+170	176	1735306421850727300	CMakeFiles/Task_1.dir/CXX.dd	4c88ca26a0ab57ca
+170	176	1735306421850727300	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CXXModules.json	4c88ca26a0ab57ca
+170	176	1735306421850727300	CMakeFiles/Task_1.dir/main.cpp.o.modmap	4c88ca26a0ab57ca
+177	1162	1735306421857513400	CMakeFiles/Task_1.dir/main.cpp.o	8217b47f304898ca
+1162	1243	1735306422843022900	Task_1	f12d67335047e817
+4	175	1735306433251913900	CMakeFiles/Task_1.dir/main.cpp.o.ddi	6b700d7a67cef491
+176	182	1735306433423717200	CMakeFiles/Task_1.dir/CXX.dd	4c88ca26a0ab57ca
+176	182	1735306433423717200	/mnt/Media/Works/Labs/MITSO-1 Course. ОАИП. ЛР Re/Lab 3/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir/CXXModules.json	4c88ca26a0ab57ca
+176	182	1735306433423717200	CMakeFiles/Task_1.dir/main.cpp.o.modmap	4c88ca26a0ab57ca
+183	1084	1735306433430342800	CMakeFiles/Task_1.dir/main.cpp.o	8217b47f304898ca
+1085	1173	1735306434332513500	Task_1	f12d67335047e817

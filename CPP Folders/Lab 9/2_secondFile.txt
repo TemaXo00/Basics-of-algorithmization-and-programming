@@ -1,0 +1,5 @@
+3245 Siemens
+4853 Apple
+4118 Panasonic
+1048 Xiaomi
+1000 Nokia
